@@ -43,7 +43,7 @@ Whether you’re showcasing a product, building your personal brand, or launchin
 
 ---
 
-![CodeCraft Landing – Screenshot Preview](/asset/screenshot/screenshot.png)
+![CodeCraft Landing – Screenshot Preview](/asset/screenshot/dd.png)
 
 ## 💼 Want a Custom Landing Page?
 
