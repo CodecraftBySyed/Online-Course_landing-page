@@ -1,6 +1,6 @@
 # 🚀 CodeCraft Landing – Modern, Open-Source Landing Page
 
-🔗 [Live Preview](https://your-deploy-link.vercel.app)
+🔗 [Live Preview](https://demo-online-course.netlify.app/)
 
 
 
